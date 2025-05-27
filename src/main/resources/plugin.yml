@@ -1,0 +1,27 @@
+name: ElementalSurvival
+version: 1.0
+main: com.darangel.elementsurvival.ElementalSurvival
+api-version: "1.8"
+description: >-
+  A fully functional Minecraft plugin that supports element selection, custom game modes,
+  NPC interactions via Citizens, duel and trade systems, economy & shop integration, and admin tools.
+commands:
+  element:
+    description: Opens the element selection GUI.
+    usage: /<command>
+  team:
+    description: Team management command.
+    usage: /team <team_name|username|leave>
+  starter:
+    description: Receive a one-time starter kit.
+    usage: /starter
+  challenge:
+    description: Challenge a player to a duel.
+    usage: /challenge <username>
+  trade:
+    description: Open the trade GUI.
+    usage: /trade
+permissions:
+  elementsurvival.starter:
+    description: Allows access to the starter kit command.
+    default: op
