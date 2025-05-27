@@ -1,4 +1,4 @@
-package com.darkangel.elementsurvival.commands;
+package com.alansebastian.elementsurvival.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

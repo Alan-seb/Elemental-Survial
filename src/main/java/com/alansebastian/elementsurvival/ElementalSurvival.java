@@ -1,13 +1,13 @@
-package com.darkangel.elementsurvival;
+package com.alansebastian.elementsurvival;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import com.darkangel.elementsurvival.commands.ElementCommand;
-import com.darkangel.elementsurvival.commands.TeamCommand;
-import com.darkangel.elementsurvival.commands.StarterCommand;
-import com.darkangel.elementsurvival.commands.ChallengeCommand;
-import com.darkangel.elementsurvival.commands.TradeCommand;
-import com.darkangel.elementsurvival.listeners.GUIListener;
-import com.darkangel.elementsurvival.listeners.NPCListener;
+import com.alansebastian.elementsurvival.commands.ElementCommand;
+import com.alansebastian.elementsurvival.commands.TeamCommand;
+import com.alansebastian.elementsurvival.commands.StarterCommand;
+import com.alansebastian.elementsurvival.commands.ChallengeCommand;
+import com.alansebastian.elementsurvival.commands.TradeCommand;
+import com.alansebastian.elementsurvival.listeners.GUIListener;
+import com.alansebastian.elementsurvival.listeners.NPCListener;
 
 public class ElementalSurvival extends JavaPlugin {
 

@@ -1,10 +1,10 @@
-package com.darkangel.elementsurvival.commands;
+package com.alansebastian.elementsurvival.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
-import com.darkangel.elementsurvival.gui.ElementSelectionGUI;
+import com.alansebastian.elementsurvival.gui.ElementSelectionGUI;
 
 public class ElementCommand implements CommandExecutor {
 

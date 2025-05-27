@@ -1,4 +1,4 @@
-package com.darkangel.elementsurvival.listeners;
+package com.alansebastian.elementsurvival.listeners;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Entity;

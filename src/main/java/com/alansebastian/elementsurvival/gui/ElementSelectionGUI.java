@@ -1,4 +1,4 @@
-package com.darkangel.elementsurvival.gui;
+package com.alansebastian.elementsurvival.gui;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
